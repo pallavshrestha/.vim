@@ -178,4 +178,7 @@ nnoremap <silent> <leader>m :call fzf#run({
 
 
 """"""""""""""""""""""""""""""
+<<<<<<< HEAD
            
+=======
+>>>>>>> 3ef197c (Syncing local with remote)
