@@ -1,2 +1,2 @@
-# .vin
+# .vim
 Settings/Config files for Vim
